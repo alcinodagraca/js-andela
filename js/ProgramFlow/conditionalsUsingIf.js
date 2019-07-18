@@ -1,7 +1,7 @@
 let score = 1000;
 
 if(score === 1000){
-   score = score + 1000;
+   score = score + 1000; 
 }
 
 //console.log("Your score is: ", score);
@@ -9,7 +9,7 @@ if(score === 1000){
 // =================== if... else ==============  //
 
 let score1 = 999;
-let bonus = 1;
+let bonus = 1;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 if(score1 === 1000){
    console.log("Boa, esteve quase lá!");
