@@ -7,3 +7,12 @@ let person = {
 };
 
 console.log(person.name, person.age);
+
+//Arrays of objects
+let cards = [
+    {
+        name: 'Alcino',
+        age: 21,
+        partTime: false
+    }
+];
